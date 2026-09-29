@@ -1,0 +1,6 @@
+.vercel-global/
+.env*
+!.env.example
+tests/
+*.tsbuildinfo
+supabase/.temp/
